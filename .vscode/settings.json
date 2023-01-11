@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "movie_ERD",
+            "connectString": "postgres://cowumcjl:XnHwls6ykaYAwOCfnITl0xA8Q4cEu58R@chunee.db.elephantsql.com/cowumcjl"
+        }
+    ]
+}
